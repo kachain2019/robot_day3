@@ -1,6 +1,6 @@
 *** Settings ***
 Library  BuiltIn
-Library  Selenium2Library
+Library  SeleniumLibrary
 Resource  file_resource/Variables.robot
 Resource  file_resource/Keywords.robot
 
